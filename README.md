@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 
-<img src="banner.gif"/>
+<img src="banner.gif">
